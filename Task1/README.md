@@ -20,8 +20,6 @@ python todo.py
 
 
 Example Usage
-markdown
-Copy code
 1. Add Task
 2. View Tasks
 3. Mark Task Completed
